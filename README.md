@@ -48,12 +48,6 @@ cp -R SKILL.md README.md requirements.txt scripts references \
 # 主命令见 SKILL.md
 ```
 
-## Gallery
-
-![示例 1](screenshots/demo-1.png) ![示例 2](screenshots/demo-2.png) ![示例 3](screenshots/demo-3.png)
-
-> 放三张真实输出，点图看大图。没有可视输出的 skill 可以删掉这一节。
-
 ## Architecture
 
 | 文件 | 作用 |
