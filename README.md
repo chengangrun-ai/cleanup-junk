@@ -44,9 +44,7 @@ cp -R SKILL.md README.md requirements.txt scripts references \
 
 ## Usage
 
-```bash
-# 主命令见 SKILL.md
-```
+在支持 Agent Skills 的客户端里提到「**cleanup-junk**」即可触发；也可用该客户端的 Skill 调用命令显式加载。
 
 ## Architecture
 
