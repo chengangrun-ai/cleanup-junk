@@ -6,7 +6,7 @@
 
 ![cleanup-junk](screenshots/hero.png)
 
-> 把 `screenshots/hero.png` 换成真实效果图（建议 1200px 宽、不超过 400KB）
+
 
 ## What This Does
 
